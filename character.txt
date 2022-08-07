@@ -1,0 +1,6 @@
+
+var letter: Character = "A"
+print(letter)  
+
+var symbol: Character = "#"
+print(symbol)   
